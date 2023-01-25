@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamchristiancollins
 - 👀 I’m interested in learning more about what I can do in computer science
-- 🌱 I’m currently learning basic python
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... collincj@uab.edu
 
