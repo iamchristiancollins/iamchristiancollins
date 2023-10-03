@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about what I can do in computer science
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ... collincj@uab.edu
+- 📫 How to reach me ... iamchristiancollins@gmail.com
 
 <!---
 iamchristiancollins/iamchristiancollins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
